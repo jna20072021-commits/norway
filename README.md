@@ -1,9 +1,9 @@
-# 🇦🇪 DubaiJobs.ae — 100,000 Job Portal
+# 🇳🇴 NORWAY.jobs — 100,000 Job Portal
 
 ## Features
 - ✅ 100,000 unique job pages (`/jobs/1` → `/jobs/100000`)
 - ✅ JSON-LD JobPosting schema on every job page
-- ✅ 50% Remote jobs, 50% On-site jobs across all 7 Emirates
+- ✅ 50% Remote jobs, 50% On-site jobs across all 11 counties
 - ✅ XML Sitemaps (100 sitemap files)
 - ✅ robots.txt
 - ✅ Pagination (20 jobs/page)
@@ -11,6 +11,13 @@
 - ✅ REST API
 - ✅ Zero database — all data generated deterministically
 - ✅ Gzip compression — fast on Railway free tier
+
+## Companies Include
+- Netflix, YouTube, Delta Airlines, Southwest Airlines, American Airlines
+- Tesla, Apple, Amazon, Google, CostCo, Disney, United Airlines
+- Wayfair, Starbucks, Walmart, American Express, Wells Fargo
+- Remote-first: Automattic, GitLab, Zapier, Shopify, Buffer, InVision
+- And many more...
 
 ## Deploy to Railway
 1. Push to GitHub or upload zip
