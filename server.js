@@ -9,7 +9,7 @@ app.use(compression());
 app.use(express.static(__dirname));
 app.use(express.static('public'));
 
-// ─── AD CONFIGURATION ──────────────────────────────────────────────────────────
+// ─── AD CONFIGURATION ─────────────────────────────────────────────────────────
 const AD_SCRIPT = `
 <script>
   atOptions = {
